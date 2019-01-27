@@ -1,0 +1,37 @@
+--------------------------------------------
+Gotek Adapter Module v1.1
+Copyright (c) 2018 RBSC
+Portions (c) Talent/Telematica
+--------------------------------------------
+
+Part     Value           Package  Notes
+------------------------------------------------------------
+C1       47pF            C0805    ceramic capacitor
+C2       15pF            C0805    ceramic capacitor
+C3       100nF           C0805    ceramic capacitor
+C4       100nF           C0805    ceramic capacitor
+C5       100nF           C0805    ceramic capacitor
+C6       100nF           C0805    ceramic capacitor
+C7       47uF 16v        SMC_D    tantalum capacitor
+CN1      FLOPPY_CONN     FL_CONN  connector for Gotek (use 20-pin GPIO raiser for Pi) and cut 3 pins
+CN2      FLOPPY_CONN_INV FL_CONN  connector for floppy cable (use 20-pin dual row straight pin header)
+IC1      WD37C65B        PLCC44   floppy controller chip
+IC2      27C512AL        PLCC-32  EEPROM/EPROM 64kb
+IC3      74LS138D        SO16     ttl logic chip
+IC4      74LS04D         SO14     ttl logic chip
+JP1                      JP2      jumper
+JP2                      JP2      jumper
+JP3                      JP2      jumper
+JP4                      JP2      jumper
+JP5                      JP4      jumper
+JP6                      JP4      jumper
+JP7                      JP1      jumper
+Q1       16mHz           HC49/S   crystal oscillator 16.000mHz
+R1       330             R0805    smd resistor
+R2       330             R0805    smd resistor
+R3       330             R0805    smd resistor
+R4       330             R0805    smd resistor
+R5       330             R0805    smd resistor
+R6       1k              R0805    smd resistor
+R7       10k             R0805    smd resistor
+X1       SLOT-60         SLOT60   60-pin female slot connector
