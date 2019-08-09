@@ -9,12 +9,8 @@ WARNING! To avoid damage to the adapter and your MSX computer never insert or re
 IMPORTANT! This adapter is compatible with MSX1, MSX2 and MSX2+ systems. However on MSX1 systems MSX-DOS may not start unless a
 memory extension cartridge is inserted into one of the slots. 
 
-IMPORTANT! By default the emulator is not locked in the adapter's case, so be careful when inserting/removing the adapter
-into/from the side slot. Never pull or push the adapter into the slot by the emulator's case! Always push or pull the adapter
-into/out of the side slot by its thick front or back case's surfaces! 
-
-IMPORTANT NOTE: There is a possibility to fix the Gotek emulator inside the case by using 2 specially made holders. Please see
-the "HolderLeft.stl" and "HolderRight.stl" 3D models in the "Case" folder and the related images in the "Pics" folder.
+IMPORTANT! The Gotek emulator must be secured by at least 2 screws (one from each side) in the adapter's case. Otherwise it will
+be detached from the board if pulled by its case.
 
 
 About
@@ -120,6 +116,9 @@ facing upwards to avoid too many supports and the damage of the screw holders wh
 The bottom cover should be attached to the body with 3.0mm x 10mm screws with flat heads. It's recommended not to tighten the screws
 too much to avoid breaking the threads inside the screw holders. Also keep in mind that the cover is made out of plastic (unlike
 the original SFG case's cover), so it needs a bit more gentle handling.
+
+The Gotek emulator needs to be secured inside the adapter's case by two or (better) four 3.0mm x 15mm screws with flat or conical
+heads. It's recommended not to tighten the screws too much to avoid breaking the threads inside the Gotek's case.
 
 If you are assembling the adapter with external connectors yourself, please note that it's better to solder the wires between the
 board and the connectors. If you use Dupont connectors (like on the images) and jumper pins, you will need to remove the plactic
